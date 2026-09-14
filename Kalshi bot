@@ -1,0 +1,12 @@
+kalshi_bot/
+├── backtest.py
+├── config.py
+├── db_logger.py
+├── execution.py
+├── kalshi_market_data.py
+├── live_paper_runner.py
+├── requirements.txt
+├── risk.py
+├── server.py
+├── signals.py
+└── synthetic_data.py
